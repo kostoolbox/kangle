@@ -7,7 +7,6 @@
 <p><img layer-src="https://www.leapteam.cn/wp-content/uploads/2020/04/20200420145750.png" src="https://www.leapteam.cn/wp-content/uploads/2020/04/20200420145750.png" alt="《KOS Kangle脚本 | 支持Centos7系统 | Kangle一键脚本》" title="KOS Kangle脚本 | 支持Centos7系统 | Kangle一键脚本插图1" /></p>
 <h2>二、安装脚本</h2>
 <p>在SSH界面运行以下Shell脚本，安装KOS工具箱。选择进入Kangle一键脚本菜单，点击即可安装KOS Kangle。你可以<strong><a title="" href="https://bbs.kostool.cn/thread-146.htm" target="_blank" rel="noopener noreferrer" data-original-title="" rel="nofollow" >点击访问</a></strong>安装KOS Kangle一键脚本教程。</p>
-<div class="alert alert-info"><span class="pln">yum install </span><span class="pun">&#8211;</span><span class="pln">y wget</span><span class="pun">;</span><span class="pln">wget </span><span class="pun">&#8211;</span><span class="pln">q kos</span><span class="pun">.</span><span class="pln">f2k</span><span class="pun">.</span><span class="pln">pub </span><span class="pun">&#8211;</span><span class="pln">O kos </span><span class="pun">&amp;&amp;</span><span class="pln"> sh kos</span></div>
 <h2>三、常见问题</h2>
 <p><strong>1、我在安装Kangle EP的时候，下载速度非常慢怎么解决？</strong><br />
 如果你出现该 图片 中下载速度慢的情况按一下键盘的Ctrl+C即可重新初始化下载。<br />
