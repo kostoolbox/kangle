@@ -6,23 +6,23 @@
 <p>目前，KOS Kangle一键脚本还增加了一个【安装结束展示耗时,百分比,排行榜信息】的功能。安装KOS Kangle脚本结束后，会显示安装耗费的时间，可以看到安装KOS Kangle所有用户的安装耗时排名，非常有趣，如下图：</p>
 <img  src="https://qwblog.cn/wp-content/uploads/2020/04/20200420145750.png" alt="KOS Kangle脚本 | 支持Centos7系统 | Kangle一键脚本" title="KOS Kangle脚本 | 支持Centos7系统 | Kangle一键脚本">
 <h2>二、特性介绍</h2>
-● 修复已知EP漏洞
-● 自带php52-74版本 | 
-● 支持Centos7 64bit系统
-● 支持Centos6 64bit系统
-● 支持主机用户自助泛绑定 | 
-● 支持CDN多节点同步SSL证书
-● 支持IPv6地址访问/管理/搭建网站
-● 支持管理员创建主机可绑定IP地址
-● 修复主机SSL证书异常丢失的问题 | 
-● 支持主机用户自助开启强制https://访问 | 
-① [独家]内置简洁的HTTP错误页 | 体验
-② [独家]内置PHPfileinfo扩展[php7.1] | 
-③ [独家]内置PHPsg11插件[php5.2~7.4] | 
-④ [独家]内置Kangle商业版防C滑块验证 | 体验
-⑤ [独家]Kangle EP Mysql随机Hash密码 | 体验
-⑥ [独家]内置全局开启HTTP/2.0协议网站加速 | 了解
-⑦ [独家]安装结束展示耗时,百分比,排行榜信息 | 体验
+● 修复已知EP漏洞<br>
+● 自带php52-74版本<br>
+● 支持Centos7 64bit系统<br>
+● 支持Centos6 64bit系统<br>
+● 支持主机用户自助泛绑定<br>
+● 支持CDN多节点同步SSL证书<br>
+● 支持IPv6地址访问/管理/搭建网站<br>
+● 支持管理员创建主机可绑定IP地址<br>
+● 修复主机SSL证书异常丢失的问题<br>
+● 支持主机用户自助开启强制https://访问<br>
+① [独家]内置简洁的HTTP错误页<br>
+② [独家]内置PHPfileinfo扩展[php7.1]<br>
+③ [独家]内置PHPsg11插件[php5.2~7.4]<br>
+④ [独家]内置Kangle商业版防C滑块验证<br>
+⑤ [独家]Kangle EP Mysql随机Hash密码<br>
+⑥ [独家]内置全局开启HTTP/2.0协议网站加速<br>
+⑦ [独家]安装结束展示耗时,百分比,排行榜信息<br>
 <h2>三、安装脚本</h2>
 <p>在SSH界面运行以下Shell脚本，安装KOS工具箱。选择进入Kangle一键脚本菜单，点击即可安装KOS Kangle。你可以<strong><a title="" href="https://bbs.kostool.cn/thread-146.htm" target="_blank" rel="noopener noreferrer" data-original-title="" rel="nofollow" >点击访问</a></strong>安装KOS Kangle一键脚本教程。</p>
 <pre><strong><code>yum install -y wget;wget -q kos.f2k.pub -O kos &amp;&amp; sh kos</code></strong>
