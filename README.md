@@ -35,5 +35,5 @@
 <strong>3、KOS定制-Kangle EP支持苹果CMS网站程序需要的fileinfo模块吗？</strong><br />
 KOS定制Kangle脚本支持安装搭建苹果CMS程序，你只需切换为PHP71即可顺利安装。<br /><br />
 <strong>4、你们有脚本用户的QQ交流群吗？</strong><br />
-是的，我们有一个KOS所有业务和脚本的QQ交流群，号码是825099477</p>
+是的，我们有KOS所有业务和脚本的QQ交流群，号码是825099477、1033620276</p>
 
