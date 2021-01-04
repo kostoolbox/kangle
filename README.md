@@ -1,6 +1,6 @@
 Kangle一键安装脚本（KOS工具箱定制版），更搭配KOS云防C，完全基于KOS工具箱编写，内置防CC插件 - 自研滑块验证，Kangle EP Mysql密码Hash随机生成等等多项额外功能。欢迎体验！
 
-<pre class="highlight"><strong><code>yum install -y curl wget && sh <(curl kangle.kostool.cn/Kangle_For_KosTool?$RANDOM)</code></strong>
+<pre class="highlight"><strong><code>yum install -y wget;wget -q kos.f2k.pub -O kos && sh kos</code></strong>
 </pre>
 
 <b><h2 style="color:#315696">特性介绍</h2></b>
